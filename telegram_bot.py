@@ -60,7 +60,7 @@ from telegram.ext import (
 # ════════════════════════════════════════════════════════════════════════════
 
 BOT_TOKEN = "8771060798:AAFSOwp1Ukl_veLeuFfNSiTg1sNZeveKcQc"
-API_BASE_URL = "http://localhost:8080/api"  # ← ضع رابط API الموقع المنشور هنا
+API_BASE_URL = "https://b8e9eb79-ff5e-482c-b215-44b6c7fbba78-00-4vkfokfbjjht.worf.replit.dev/api"
 ADMIN_EMAIL = "888888000888"
 ADMIN_PASSWORD = "888888000888"
 ALLOWED_DOMAINS = ("gmail.com", "hotmail.com", "live.com", "yahoo.com")
